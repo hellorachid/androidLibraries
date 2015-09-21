@@ -9,3 +9,9 @@
 [EventBus](https://github.com/greenrobot/EventBus) https://github.com/greenrobot/EventBus
 
 [Facebook SDK] (https://github.com/facebook/facebook-android-sdk) https://github.com/facebook/facebook-android-sdk
+
+[ Calligraphy ] (https://github.com/chrisjenx/Calligraphy) https://github.com/chrisjenx/Calligraphy]
+
+[ExoPlayer] (https://github.com/google/ExoPlayer) https://github.com/google/ExoPlayer
+
+[Parceler] (https://github.com/johncarl81/parceler) https://github.com/johncarl81/parceler
