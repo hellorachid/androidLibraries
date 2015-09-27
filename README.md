@@ -15,3 +15,5 @@
 [ExoPlayer] (https://github.com/google/ExoPlayer) https://github.com/google/ExoPlayer
 
 [Parceler] (https://github.com/johncarl81/parceler) https://github.com/johncarl81/parceler
+
+[GSON] (https://github.com/google/gson) https://github.com/google/gson
