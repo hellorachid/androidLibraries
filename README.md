@@ -17,3 +17,5 @@
 [Parceler] (https://github.com/johncarl81/parceler) https://github.com/johncarl81/parceler
 
 [GSON] (https://github.com/google/gson) https://github.com/google/gson
+
+[NumberProgressBar] (https://github.com/daimajia/NumberProgressBar) https://github.com/daimajia/NumberProgressBar
